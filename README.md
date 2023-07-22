@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NPRAGADEESHWARAN
-- 👀 I’m interested in coding in c and c++
+- 👀 I’m interested in coding in java and frontend languages 
 - 🌱 I’m currently learning java& python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... npragadeeshwaran06@gmail.com
